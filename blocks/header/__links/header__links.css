@@ -1,0 +1,14 @@
+.header__links {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 14px 0 8px;
+  gap: 19px;
+}
+
+@media (min-width: 768px) {
+  .header__links {
+    margin: 18px 0 6px;
+  }
+}
+
