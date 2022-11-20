@@ -15,11 +15,11 @@
 @media (min-width: 768px) {
   .header {
     max-height: 52px;
-    padding: 28px 48px 0;
+    padding: 28px 24px 0;
   }
 }
 
-@media (min-width: 1280px) {
+@media (min-width: 1024px) {
   .header {
     padding: 28px 48px 0;
   }
