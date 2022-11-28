@@ -1,0 +1,22 @@
+.footer__copyright {
+  margin: 0;
+  margin-left: 16px;
+  padding-top: 48px;
+  align-self: flex-start;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  text-align: right;
+  color: #FFFFFF;
+}
+
+@media (min-width: 768px) {
+  .footer__copyright {
+    align-self: center;
+    line-height: 16px;
+    padding-top: 0;
+    margin-left: 0;
+  }
+}
