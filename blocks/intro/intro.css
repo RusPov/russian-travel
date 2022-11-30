@@ -1,21 +1,21 @@
 
 
 .intro {
-  padding-top: 64px;
+  padding-top: 53px;
   margin: 0 auto;
   max-width: 288px;
 }
 
 @media (min-width: 768px) {
   .intro {
-    padding-top: 88px;
+    padding-top: 79px;
     max-width: 720px;
   }
 }
 
 @media (min-width: 1024px) {
   .intro {
-    padding-top: 92px;
+    padding-top: 82px;
     max-width: 690px;
     margin-left: 48px;
   }
