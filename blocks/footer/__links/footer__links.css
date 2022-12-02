@@ -13,5 +13,6 @@
     flex-direction: row;
     gap: 0;
     margin: 0;
+    max-width: fit-content;
   }
 }
