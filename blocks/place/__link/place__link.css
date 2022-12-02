@@ -1,7 +1,6 @@
-.place__website-link {
+.place__link {
   margin: 0;
   padding: 0;
-  font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -12,6 +11,6 @@
   transition: opacity .2s linear;
 }
 
-.place__website-link:hover {
+.place__link:hover {
   opacity: .6;
 }
