@@ -12,7 +12,6 @@
   .footer__links {
     flex-direction: row;
     gap: 0;
-    max-width: 0;
     margin: 0;
   }
 }
