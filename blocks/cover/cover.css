@@ -1,13 +1,13 @@
 .cover {
   margin: 0 auto;
-  padding-top: 36px;
+  padding-top: 17px;
   max-width: 320px;
 }
 
 @media (min-width: 768px) {
   .cover {
     max-width: 768px;
-    padding-top: 64px;
+    padding-top: 4px;
   }
 }
 
